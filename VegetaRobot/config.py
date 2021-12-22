@@ -56,6 +56,7 @@ class Config(object):
     TIME_API_KEY = 'FILUWCH5L9F4'  # Get your API key from https://timezonedb.com/api
     WALL_API = 'awoo'  #For wallpapers, get one from https://wall.alphacoders.com/api.php
     AI_API_KEY = 'b48cbc2869196d87ab724d4f061c08ef52801d6135478f99a267ce659d9a12c631f6ada0cc9377f630280bf4f4252aaaaa90fa623eb6c98454e1659d05bf4e9a'  #For chatbot, get one from https://coffeehouse.intellivoid.net/dashboard
+    ARQ_API_KEY = "XATGBL-ZSUTOQ-QAXYNL-YKFOTJ-ARQ"
     BL_CHATS = []  # List of groups that you want blacklisted.
     SPAMMERS = None
 
